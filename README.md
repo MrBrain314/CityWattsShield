@@ -10,7 +10,7 @@ Ce travail a été réalisé à la suite du cours sur l’analyse de données af
 
 ---
 
-## 📂 Structure du projet
+##  Structure du projet
 
 - `data/` → Contient les fichiers de données brutes et nettoyées  
 - `notebooks/` → Jupyter Notebooks utilisés pour les analyses  
@@ -20,7 +20,7 @@ Ce travail a été réalisé à la suite du cours sur l’analyse de données af
 
 ---
 
-## 📊 Étapes réalisées
+##  Étapes réalisées
 
 1. **Collecte de données**
    - Données récupérées via Kaggle
